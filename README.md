@@ -1,3 +1,3 @@
 # Desenvolvimento de software visual
 
-Professor: 
+Professor: Jean K. Diogo.
