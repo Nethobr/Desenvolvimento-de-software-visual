@@ -1,1 +1,3 @@
-# desenvolvimento-visual
+# Desenvolvimento de software visual
+
+Professor: 
