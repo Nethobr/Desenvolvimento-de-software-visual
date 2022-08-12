@@ -1,0 +1,32 @@
+C:\zsrc\2 - Desenvolvimento-de-software-visual\Hello-world\Hello-world\bin\Debug\net5.0\Hello-world.exe
+C:\zsrc\2 - Desenvolvimento-de-software-visual\Hello-world\Hello-world\bin\Debug\net5.0\Hello-world.deps.json
+C:\zsrc\2 - Desenvolvimento-de-software-visual\Hello-world\Hello-world\bin\Debug\net5.0\Hello-world.runtimeconfig.json
+C:\zsrc\2 - Desenvolvimento-de-software-visual\Hello-world\Hello-world\bin\Debug\net5.0\Hello-world.runtimeconfig.dev.json
+C:\zsrc\2 - Desenvolvimento-de-software-visual\Hello-world\Hello-world\bin\Debug\net5.0\Hello-world.dll
+C:\zsrc\2 - Desenvolvimento-de-software-visual\Hello-world\Hello-world\bin\Debug\net5.0\ref\Hello-world.dll
+C:\zsrc\2 - Desenvolvimento-de-software-visual\Hello-world\Hello-world\bin\Debug\net5.0\Hello-world.pdb
+C:\zsrc\2 - Desenvolvimento-de-software-visual\Hello-world\Hello-world\obj\Debug\net5.0\Hello-world.csproj.AssemblyReference.cache
+C:\zsrc\2 - Desenvolvimento-de-software-visual\Hello-world\Hello-world\obj\Debug\net5.0\Hello-world.GeneratedMSBuildEditorConfig.editorconfig
+C:\zsrc\2 - Desenvolvimento-de-software-visual\Hello-world\Hello-world\obj\Debug\net5.0\Hello-world.AssemblyInfoInputs.cache
+C:\zsrc\2 - Desenvolvimento-de-software-visual\Hello-world\Hello-world\obj\Debug\net5.0\Hello-world.AssemblyInfo.cs
+C:\zsrc\2 - Desenvolvimento-de-software-visual\Hello-world\Hello-world\obj\Debug\net5.0\Hello-world.csproj.CoreCompileInputs.cache
+C:\zsrc\2 - Desenvolvimento-de-software-visual\Hello-world\Hello-world\obj\Debug\net5.0\Hello-world.dll
+C:\zsrc\2 - Desenvolvimento-de-software-visual\Hello-world\Hello-world\obj\Debug\net5.0\ref\Hello-world.dll
+C:\zsrc\2 - Desenvolvimento-de-software-visual\Hello-world\Hello-world\obj\Debug\net5.0\Hello-world.pdb
+C:\zsrc\2 - Desenvolvimento-de-software-visual\Hello-world\Hello-world\obj\Debug\net5.0\Hello-world.genruntimeconfig.cache
+C:\zsrc\Desenvolvimento-de-software-visual\Hello-world\Hello-world\bin\Debug\net5.0\Hello-world.exe
+C:\zsrc\Desenvolvimento-de-software-visual\Hello-world\Hello-world\bin\Debug\net5.0\Hello-world.deps.json
+C:\zsrc\Desenvolvimento-de-software-visual\Hello-world\Hello-world\bin\Debug\net5.0\Hello-world.runtimeconfig.json
+C:\zsrc\Desenvolvimento-de-software-visual\Hello-world\Hello-world\bin\Debug\net5.0\Hello-world.runtimeconfig.dev.json
+C:\zsrc\Desenvolvimento-de-software-visual\Hello-world\Hello-world\bin\Debug\net5.0\Hello-world.dll
+C:\zsrc\Desenvolvimento-de-software-visual\Hello-world\Hello-world\bin\Debug\net5.0\ref\Hello-world.dll
+C:\zsrc\Desenvolvimento-de-software-visual\Hello-world\Hello-world\bin\Debug\net5.0\Hello-world.pdb
+C:\zsrc\Desenvolvimento-de-software-visual\Hello-world\Hello-world\obj\Debug\net5.0\Hello-world.csproj.AssemblyReference.cache
+C:\zsrc\Desenvolvimento-de-software-visual\Hello-world\Hello-world\obj\Debug\net5.0\Hello-world.GeneratedMSBuildEditorConfig.editorconfig
+C:\zsrc\Desenvolvimento-de-software-visual\Hello-world\Hello-world\obj\Debug\net5.0\Hello-world.AssemblyInfoInputs.cache
+C:\zsrc\Desenvolvimento-de-software-visual\Hello-world\Hello-world\obj\Debug\net5.0\Hello-world.AssemblyInfo.cs
+C:\zsrc\Desenvolvimento-de-software-visual\Hello-world\Hello-world\obj\Debug\net5.0\Hello-world.csproj.CoreCompileInputs.cache
+C:\zsrc\Desenvolvimento-de-software-visual\Hello-world\Hello-world\obj\Debug\net5.0\Hello-world.dll
+C:\zsrc\Desenvolvimento-de-software-visual\Hello-world\Hello-world\obj\Debug\net5.0\ref\Hello-world.dll
+C:\zsrc\Desenvolvimento-de-software-visual\Hello-world\Hello-world\obj\Debug\net5.0\Hello-world.pdb
+C:\zsrc\Desenvolvimento-de-software-visual\Hello-world\Hello-world\obj\Debug\net5.0\Hello-world.genruntimeconfig.cache

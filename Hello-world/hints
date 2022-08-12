@@ -1,0 +1,13 @@
+1 - Na linha de comando:
+    * dotnet new console --name Hello-world
+    * Em sequência cria uma pasta com o programa.
+
+2 - Para rodar o projeto, vá na pasta do projeto e escreva:
+    * dotnet run
+
+3 - BOAS PRÁTICAS:
+     * Usar "camelCase" para atributos (variáveis);
+     * Usar "PascalCase" para (todo o resto, nome de classe e métodos);
+        -> Para métodos usamos verbos;
+        -> Para classes substantivos.
+
