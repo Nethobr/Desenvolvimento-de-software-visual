@@ -7,16 +7,21 @@ namespace Hello_world
         // Função Main
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!\n");
+            try 
+            {
+                Console.WriteLine("Hello World!\n");
 
-            Console.Write("Largura: ");
-            double largura = Convert.ToDouble(Console.ReadLine());
-            Console.Write("Altura: ");
-            double altura = Convert.ToDouble(Console.ReadLine());
-            
-            Console.WriteLine();
+                Console.Write("Largura: ");
+                double largura = Convert.ToDouble(Console.ReadLine());
+                Console.Write("Altura: ");
+                double altura = Convert.ToDouble(Console.ReadLine());
 
-            Console.WriteLine("Resultado: " + CalculaArea(largura, altura) + ".");
+                Console.WriteLine();
+
+                Console.WriteLine("Resultado: " + CalculaArea(largura, altura) + ".");
+            } catch (Exception e) {
+                Console.WriteLine(e.Message);
+            }   // Fim try - catch
         }   // Fim Main
 
         // Função CalculaArea
