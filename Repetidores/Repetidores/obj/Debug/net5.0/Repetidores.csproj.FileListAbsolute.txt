@@ -1,0 +1,16 @@
+C:\zsrc\Desenvolvimento-de-software-visual\Repetidores\Repetidores\obj\Debug\net5.0\Repetidores.csproj.AssemblyReference.cache
+C:\zsrc\Desenvolvimento-de-software-visual\Repetidores\Repetidores\obj\Debug\net5.0\Repetidores.GeneratedMSBuildEditorConfig.editorconfig
+C:\zsrc\Desenvolvimento-de-software-visual\Repetidores\Repetidores\obj\Debug\net5.0\Repetidores.AssemblyInfoInputs.cache
+C:\zsrc\Desenvolvimento-de-software-visual\Repetidores\Repetidores\obj\Debug\net5.0\Repetidores.AssemblyInfo.cs
+C:\zsrc\Desenvolvimento-de-software-visual\Repetidores\Repetidores\obj\Debug\net5.0\Repetidores.csproj.CoreCompileInputs.cache
+C:\zsrc\Desenvolvimento-de-software-visual\Repetidores\Repetidores\bin\Debug\net5.0\Repetidores.exe
+C:\zsrc\Desenvolvimento-de-software-visual\Repetidores\Repetidores\bin\Debug\net5.0\Repetidores.deps.json
+C:\zsrc\Desenvolvimento-de-software-visual\Repetidores\Repetidores\bin\Debug\net5.0\Repetidores.runtimeconfig.json
+C:\zsrc\Desenvolvimento-de-software-visual\Repetidores\Repetidores\bin\Debug\net5.0\Repetidores.runtimeconfig.dev.json
+C:\zsrc\Desenvolvimento-de-software-visual\Repetidores\Repetidores\bin\Debug\net5.0\Repetidores.dll
+C:\zsrc\Desenvolvimento-de-software-visual\Repetidores\Repetidores\bin\Debug\net5.0\ref\Repetidores.dll
+C:\zsrc\Desenvolvimento-de-software-visual\Repetidores\Repetidores\bin\Debug\net5.0\Repetidores.pdb
+C:\zsrc\Desenvolvimento-de-software-visual\Repetidores\Repetidores\obj\Debug\net5.0\Repetidores.dll
+C:\zsrc\Desenvolvimento-de-software-visual\Repetidores\Repetidores\obj\Debug\net5.0\ref\Repetidores.dll
+C:\zsrc\Desenvolvimento-de-software-visual\Repetidores\Repetidores\obj\Debug\net5.0\Repetidores.pdb
+C:\zsrc\Desenvolvimento-de-software-visual\Repetidores\Repetidores\obj\Debug\net5.0\Repetidores.genruntimeconfig.cache
