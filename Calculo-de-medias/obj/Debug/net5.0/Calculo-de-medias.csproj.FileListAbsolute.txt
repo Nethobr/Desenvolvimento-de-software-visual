@@ -1,0 +1,16 @@
+C:\zsrc\Desenvolvimento-de-software-visual\Calculo-de-medias\obj\Debug\net5.0\Calculo-de-medias.csproj.AssemblyReference.cache
+C:\zsrc\Desenvolvimento-de-software-visual\Calculo-de-medias\obj\Debug\net5.0\Calculo-de-medias.GeneratedMSBuildEditorConfig.editorconfig
+C:\zsrc\Desenvolvimento-de-software-visual\Calculo-de-medias\obj\Debug\net5.0\Calculo-de-medias.AssemblyInfoInputs.cache
+C:\zsrc\Desenvolvimento-de-software-visual\Calculo-de-medias\obj\Debug\net5.0\Calculo-de-medias.AssemblyInfo.cs
+C:\zsrc\Desenvolvimento-de-software-visual\Calculo-de-medias\obj\Debug\net5.0\Calculo-de-medias.csproj.CoreCompileInputs.cache
+C:\zsrc\Desenvolvimento-de-software-visual\Calculo-de-medias\bin\Debug\net5.0\Calculo-de-medias.exe
+C:\zsrc\Desenvolvimento-de-software-visual\Calculo-de-medias\bin\Debug\net5.0\Calculo-de-medias.deps.json
+C:\zsrc\Desenvolvimento-de-software-visual\Calculo-de-medias\bin\Debug\net5.0\Calculo-de-medias.runtimeconfig.json
+C:\zsrc\Desenvolvimento-de-software-visual\Calculo-de-medias\bin\Debug\net5.0\Calculo-de-medias.runtimeconfig.dev.json
+C:\zsrc\Desenvolvimento-de-software-visual\Calculo-de-medias\bin\Debug\net5.0\Calculo-de-medias.dll
+C:\zsrc\Desenvolvimento-de-software-visual\Calculo-de-medias\bin\Debug\net5.0\ref\Calculo-de-medias.dll
+C:\zsrc\Desenvolvimento-de-software-visual\Calculo-de-medias\bin\Debug\net5.0\Calculo-de-medias.pdb
+C:\zsrc\Desenvolvimento-de-software-visual\Calculo-de-medias\obj\Debug\net5.0\Calculo-de-medias.dll
+C:\zsrc\Desenvolvimento-de-software-visual\Calculo-de-medias\obj\Debug\net5.0\ref\Calculo-de-medias.dll
+C:\zsrc\Desenvolvimento-de-software-visual\Calculo-de-medias\obj\Debug\net5.0\Calculo-de-medias.pdb
+C:\zsrc\Desenvolvimento-de-software-visual\Calculo-de-medias\obj\Debug\net5.0\Calculo-de-medias.genruntimeconfig.cache
