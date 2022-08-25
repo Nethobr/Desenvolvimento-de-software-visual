@@ -1,0 +1,16 @@
+C:\zsrc\Desenvolvimento-de-software-visual\Testes\obj\Debug\net5.0\Testes.csproj.AssemblyReference.cache
+C:\zsrc\Desenvolvimento-de-software-visual\Testes\obj\Debug\net5.0\Testes.GeneratedMSBuildEditorConfig.editorconfig
+C:\zsrc\Desenvolvimento-de-software-visual\Testes\obj\Debug\net5.0\Testes.AssemblyInfoInputs.cache
+C:\zsrc\Desenvolvimento-de-software-visual\Testes\obj\Debug\net5.0\Testes.AssemblyInfo.cs
+C:\zsrc\Desenvolvimento-de-software-visual\Testes\obj\Debug\net5.0\Testes.csproj.CoreCompileInputs.cache
+C:\zsrc\Desenvolvimento-de-software-visual\Testes\bin\Debug\net5.0\Testes.exe
+C:\zsrc\Desenvolvimento-de-software-visual\Testes\bin\Debug\net5.0\Testes.deps.json
+C:\zsrc\Desenvolvimento-de-software-visual\Testes\bin\Debug\net5.0\Testes.runtimeconfig.json
+C:\zsrc\Desenvolvimento-de-software-visual\Testes\bin\Debug\net5.0\Testes.runtimeconfig.dev.json
+C:\zsrc\Desenvolvimento-de-software-visual\Testes\bin\Debug\net5.0\Testes.dll
+C:\zsrc\Desenvolvimento-de-software-visual\Testes\bin\Debug\net5.0\ref\Testes.dll
+C:\zsrc\Desenvolvimento-de-software-visual\Testes\bin\Debug\net5.0\Testes.pdb
+C:\zsrc\Desenvolvimento-de-software-visual\Testes\obj\Debug\net5.0\Testes.dll
+C:\zsrc\Desenvolvimento-de-software-visual\Testes\obj\Debug\net5.0\ref\Testes.dll
+C:\zsrc\Desenvolvimento-de-software-visual\Testes\obj\Debug\net5.0\Testes.pdb
+C:\zsrc\Desenvolvimento-de-software-visual\Testes\obj\Debug\net5.0\Testes.genruntimeconfig.cache
