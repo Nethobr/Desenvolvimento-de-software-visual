@@ -7,7 +7,15 @@ namespace Testes
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Oiii!");
+            String nome = "Jorge Lamentador";
+            
+            String newName = nome.Replace(" ", "_");        
+            Console.WriteLine(newName);
+
+            String [] palavra = nome.Split(" ");
+            Console.WriteLine(palavra[0] + " o " + palavra[1]);
+
+
         }
     }
 }
