@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Text;
 
 namespace Testes
 {
@@ -8,14 +7,13 @@ namespace Testes
         static void Main(string[] args)
         {
             String nome = "Jorge Lamentador";
-            
+
             String newName = nome.Replace(" ", "_");        
             Console.WriteLine(newName);
 
-            String [] palavra = nome.Split(" ");
-            Console.WriteLine(palavra[0] + " o " + palavra[1]);
-
-
+            String [] palavras = newName.Split("_");
+            foreach (String palavra in palavras)
+                Console.WriteLine(palavra);
         }
     }
 }

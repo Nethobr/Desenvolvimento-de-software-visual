@@ -1,0 +1,5 @@
+C:\zsrc\Desenvolvimento-de-software-visual\Sistema-de-login\obj\Debug\net5.0\Sistema-de-Login.csproj.AssemblyReference.cache
+C:\zsrc\Desenvolvimento-de-software-visual\Sistema-de-login\obj\Debug\net5.0\Sistema-de-Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\zsrc\Desenvolvimento-de-software-visual\Sistema-de-login\obj\Debug\net5.0\Sistema-de-Login.AssemblyInfoInputs.cache
+C:\zsrc\Desenvolvimento-de-software-visual\Sistema-de-login\obj\Debug\net5.0\Sistema-de-Login.AssemblyInfo.cs
+C:\zsrc\Desenvolvimento-de-software-visual\Sistema-de-login\obj\Debug\net5.0\Sistema-de-Login.csproj.CoreCompileInputs.cache
