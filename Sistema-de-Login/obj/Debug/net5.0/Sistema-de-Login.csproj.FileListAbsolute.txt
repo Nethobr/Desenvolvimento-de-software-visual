@@ -3,3 +3,14 @@ C:\zsrc\Desenvolvimento-de-software-visual\Sistema-de-login\obj\Debug\net5.0\Sis
 C:\zsrc\Desenvolvimento-de-software-visual\Sistema-de-login\obj\Debug\net5.0\Sistema-de-Login.AssemblyInfoInputs.cache
 C:\zsrc\Desenvolvimento-de-software-visual\Sistema-de-login\obj\Debug\net5.0\Sistema-de-Login.AssemblyInfo.cs
 C:\zsrc\Desenvolvimento-de-software-visual\Sistema-de-login\obj\Debug\net5.0\Sistema-de-Login.csproj.CoreCompileInputs.cache
+C:\zsrc\Desenvolvimento-de-software-visual\Sistema-de-Login\bin\Debug\net5.0\Sistema-de-Login.exe
+C:\zsrc\Desenvolvimento-de-software-visual\Sistema-de-Login\bin\Debug\net5.0\Sistema-de-Login.deps.json
+C:\zsrc\Desenvolvimento-de-software-visual\Sistema-de-Login\bin\Debug\net5.0\Sistema-de-Login.runtimeconfig.json
+C:\zsrc\Desenvolvimento-de-software-visual\Sistema-de-Login\bin\Debug\net5.0\Sistema-de-Login.runtimeconfig.dev.json
+C:\zsrc\Desenvolvimento-de-software-visual\Sistema-de-Login\bin\Debug\net5.0\Sistema-de-Login.dll
+C:\zsrc\Desenvolvimento-de-software-visual\Sistema-de-Login\bin\Debug\net5.0\ref\Sistema-de-Login.dll
+C:\zsrc\Desenvolvimento-de-software-visual\Sistema-de-Login\bin\Debug\net5.0\Sistema-de-Login.pdb
+C:\zsrc\Desenvolvimento-de-software-visual\Sistema-de-Login\obj\Debug\net5.0\Sistema-de-Login.dll
+C:\zsrc\Desenvolvimento-de-software-visual\Sistema-de-Login\obj\Debug\net5.0\ref\Sistema-de-Login.dll
+C:\zsrc\Desenvolvimento-de-software-visual\Sistema-de-Login\obj\Debug\net5.0\Sistema-de-Login.pdb
+C:\zsrc\Desenvolvimento-de-software-visual\Sistema-de-Login\obj\Debug\net5.0\Sistema-de-Login.genruntimeconfig.cache

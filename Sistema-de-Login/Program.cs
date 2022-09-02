@@ -8,12 +8,7 @@ namespace Sistema_de_Login
     {
         static bool cadastrar(String user, String pass)
         {
-            String linha = user + "=" + pass;
-
-            // TODO tudo
-            File.AppendAllText("users.txt", linha);
-
-            return ;
+            return true;
         }   // Fim cadastrar
 
 
@@ -23,7 +18,7 @@ namespace Sistema_de_Login
             Console.Write("1 - logar, 2 - cadastrar, 3 - sai.");
 
             bool logout = false;
-            while (!sair)
+            while (!logout)
             {
                 int op = 0;
 
@@ -58,7 +53,7 @@ namespace Sistema_de_Login
                         break;
                     case 3:
                         Console.WriteLine("Tchau!!");
-                        sair = true;
+                        logout = true;
                         break;
                     default:
                         Console.WriteLine("Opção inválida!");

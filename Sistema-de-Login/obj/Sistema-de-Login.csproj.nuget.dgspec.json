@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\zsrc\\Desenvolvimento-de-software-visual\\Sistema-de-login\\Sistema-de-Login.csproj": {}
+    "C:\\zsrc\\Desenvolvimento-de-software-visual\\Sistema-de-Login\\Sistema-de-Login.csproj": {}
   },
   "projects": {
-    "C:\\zsrc\\Desenvolvimento-de-software-visual\\Sistema-de-login\\Sistema-de-Login.csproj": {
+    "C:\\zsrc\\Desenvolvimento-de-software-visual\\Sistema-de-Login\\Sistema-de-Login.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\zsrc\\Desenvolvimento-de-software-visual\\Sistema-de-login\\Sistema-de-Login.csproj",
+        "projectUniqueName": "C:\\zsrc\\Desenvolvimento-de-software-visual\\Sistema-de-Login\\Sistema-de-Login.csproj",
         "projectName": "Sistema-de-Login",
-        "projectPath": "C:\\zsrc\\Desenvolvimento-de-software-visual\\Sistema-de-login\\Sistema-de-Login.csproj",
+        "projectPath": "C:\\zsrc\\Desenvolvimento-de-software-visual\\Sistema-de-Login\\Sistema-de-Login.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\zsrc\\Desenvolvimento-de-software-visual\\Sistema-de-login\\obj\\",
+        "outputPath": "C:\\zsrc\\Desenvolvimento-de-software-visual\\Sistema-de-Login\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
