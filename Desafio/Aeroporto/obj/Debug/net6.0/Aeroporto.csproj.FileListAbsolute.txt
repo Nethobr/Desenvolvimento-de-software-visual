@@ -1,0 +1,15 @@
+C:\Users\Alexandre\Documents\GitHub\Desenvolvimento-de-software-visual\Desafio\Aeroporto\bin\Debug\net6.0\Aeroporto.exe
+C:\Users\Alexandre\Documents\GitHub\Desenvolvimento-de-software-visual\Desafio\Aeroporto\bin\Debug\net6.0\Aeroporto.deps.json
+C:\Users\Alexandre\Documents\GitHub\Desenvolvimento-de-software-visual\Desafio\Aeroporto\bin\Debug\net6.0\Aeroporto.runtimeconfig.json
+C:\Users\Alexandre\Documents\GitHub\Desenvolvimento-de-software-visual\Desafio\Aeroporto\bin\Debug\net6.0\Aeroporto.dll
+C:\Users\Alexandre\Documents\GitHub\Desenvolvimento-de-software-visual\Desafio\Aeroporto\bin\Debug\net6.0\Aeroporto.pdb
+C:\Users\Alexandre\Documents\GitHub\Desenvolvimento-de-software-visual\Desafio\Aeroporto\obj\Debug\net6.0\Aeroporto.csproj.AssemblyReference.cache
+C:\Users\Alexandre\Documents\GitHub\Desenvolvimento-de-software-visual\Desafio\Aeroporto\obj\Debug\net6.0\Aeroporto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandre\Documents\GitHub\Desenvolvimento-de-software-visual\Desafio\Aeroporto\obj\Debug\net6.0\Aeroporto.AssemblyInfoInputs.cache
+C:\Users\Alexandre\Documents\GitHub\Desenvolvimento-de-software-visual\Desafio\Aeroporto\obj\Debug\net6.0\Aeroporto.AssemblyInfo.cs
+C:\Users\Alexandre\Documents\GitHub\Desenvolvimento-de-software-visual\Desafio\Aeroporto\obj\Debug\net6.0\Aeroporto.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\Documents\GitHub\Desenvolvimento-de-software-visual\Desafio\Aeroporto\obj\Debug\net6.0\Aeroporto.dll
+C:\Users\Alexandre\Documents\GitHub\Desenvolvimento-de-software-visual\Desafio\Aeroporto\obj\Debug\net6.0\refint\Aeroporto.dll
+C:\Users\Alexandre\Documents\GitHub\Desenvolvimento-de-software-visual\Desafio\Aeroporto\obj\Debug\net6.0\Aeroporto.pdb
+C:\Users\Alexandre\Documents\GitHub\Desenvolvimento-de-software-visual\Desafio\Aeroporto\obj\Debug\net6.0\Aeroporto.genruntimeconfig.cache
+C:\Users\Alexandre\Documents\GitHub\Desenvolvimento-de-software-visual\Desafio\Aeroporto\obj\Debug\net6.0\ref\Aeroporto.dll
