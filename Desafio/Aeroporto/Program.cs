@@ -181,8 +181,8 @@ namespace Aeroporto
 		{
 			Aeroporto aeroporto = new Aeroporto ();
 
+			// PEGANDO OS VOOS
 			Voo voo = GetVooPorHorario(horario);
-
 			int count = 0;
 			List<Voo> relacionados =  new List<Voo>();
 			foreach (Voo v in Voos)
@@ -193,7 +193,6 @@ namespace Aeroporto
 					relacionados.Add(v);
 				}	// Fim if
 			}	// Fim foreach
-
 			int num = 0;
 			Voo [] MesmoLocal = new Voo[count];
 			foreach (Voo v in relacionados)
@@ -201,7 +200,38 @@ namespace Aeroporto
 				MesmoLocal [num] = v;
 				num ++;
 			}	// Fim foreach
+			List<Reserva> Res = new List<Reserva>();
+			foreach(Reserva r in Reservas)
+			{
+				for (int i = 0; i < MesmoLocal.Length; i++)
+				{
+					if(r.IdVoo == MesmoLocal[i].Id)
+					{
+						Res.Add(r);
+					}	// Fim if
+				}	// Fim for
+			}	// Fim foreach
 
+			//PASSANDO OS VOOS
+			int TotalRes = Res.Count;
+			foreach (Reserva r in Res)
+			{
+				for (int i = 0; i < MesmoLocal.Length; i++)
+				{
+					if(MesmoLocal[i].Id != voo.Id)
+					{
+						if (MesmoLocal[i].AssentosOcupados < MesmoLocal[i].TotalAssentos)
+						{
+							string p = GetPassageiroPorId(r.IdPassageiro).Nome.ToString();
+							DateTime v = MesmoLocal[i].HorarioPartida;
+							ReservarVoo(p, v);
+							r.IdVoo = MesmoLocal[i].Id;
+							break;
+						}
+					}	// Fim if
+				}	// Fim for
+				Reservas.Remove(r);
+			}	// Fim foreach
 		}	// Fim CancelarVoo
 	}
 	
